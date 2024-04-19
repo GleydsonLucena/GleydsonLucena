@@ -1,5 +1,5 @@
 
-### Olá, meu nome é Gleydson Lucena ✌🏽
+### Olá, brm vindo(a) ao meu GitHub, meu nome é Gleydson Lucena ✌🏽
 <hr>
 
 [![Blog](https://img.shields.io/website?label=GleydsonLucena.com&style=for-the-badge&url=https://gleydsonlucena.github.io/portifolio/)](https://gleydsonlucena.github.io/portifolio/)
